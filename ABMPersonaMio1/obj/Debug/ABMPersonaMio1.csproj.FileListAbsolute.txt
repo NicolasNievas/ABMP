@@ -1,0 +1,11 @@
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\bin\Debug\ABMPersonaMio1.exe.config
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\bin\Debug\ABMPersonaMio1.exe
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\bin\Debug\ABMPersonaMio1.pdb
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\obj\Debug\ABMPersonaMio1.csproj.AssemblyReference.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\obj\Debug\ABMPersonaMio1.csproj.SuggestedBindingRedirects.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\obj\Debug\ABMPersonaMio1.FrmPersona.resources
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\obj\Debug\ABMPersonaMio1.Properties.Resources.resources
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\obj\Debug\ABMPersonaMio1.csproj.GenerateResource.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\obj\Debug\ABMPersonaMio1.csproj.CoreCompileInputs.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\obj\Debug\ABMPersonaMio1.exe
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\ABMPersonaMio1\obj\Debug\ABMPersonaMio1.pdb
